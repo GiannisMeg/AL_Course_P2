@@ -1,0 +1,8 @@
+# .vscode/launch.json
+# .alpackages/Microsoft_Application_21.2.49946.51605.app
+# .alpackages/Microsoft_Base Application_21.2.49946.51605.app
+# .alpackages/Microsoft_System Application_21.2.49946.51605.app
+# .alpackages/Microsoft_System_21.0.49939.51549.app
+
+.vscode/*.json
+*.app
